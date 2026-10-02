@@ -47,7 +47,6 @@ My Git configuration uses my student ID number without the hyphen, as instructed
 
 ```text
 activities/git-exercises/
-├── README.md
 ├── Canonigo_JamesRalf_01.png
 ├── Canonigo_JamesRalf_02.png
 ├── Canonigo_JamesRalf_03.png
@@ -70,7 +69,8 @@ activities/git-exercises/
 ├── Canonigo_JamesRalf_20.png
 ├── Canonigo_JamesRalf_21.png
 ├── Canonigo_JamesRalf_22.png
-└── Canonigo_JamesRalf_23.png
+├── Canonigo_JamesRalf_23.png
+└── README.md
 ```
 
 ## Declaration
